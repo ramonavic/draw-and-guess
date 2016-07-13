@@ -1,0 +1,19 @@
+{
+  "name": "draw-and-guess",
+  "version": "1.0.0",
+  "description": "2 player draw game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramonavic/draw-and-guess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramonavic/draw-and-guess/issues"
+  },
+  "homepage": "https://github.com/ramonavic/draw-and-guess#readme"
+}
